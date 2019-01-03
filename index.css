@@ -1,0 +1,31 @@
+h1 {
+  color: red; }
+
+#heading {
+  color: blue;
+  text-align: left; }
+
+#TableHeading {
+  color: green;
+  text-align: left; }
+
+table {
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 75%; }
+
+th {
+  border: 2px solid black;
+  border-collapse: collapse;
+  height: 25px;
+  background-color: green; }
+
+td {
+  border: 1px solid black;
+  height: 25px;
+  background-color: silver; }
+
+td a:hover {
+  color: red; }
+
+/*# sourceMappingURL=index.css.map */
